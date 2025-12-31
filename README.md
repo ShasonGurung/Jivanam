@@ -11,8 +11,8 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [ShasonGurung/Jivanam](https://github.com/ShasonGurung/Jivanam) - Config files for my GitHub profile. (today)
-- [AI4Green/AI4Green4Students](https://github.com/AI4Green/AI4Green4Students) - AI4Green4Students is a pedagogical version of AI4Green, promoting sustainable chemistry practices and research data management. (4 weeks ago)
+- [ShasonGurung/Jivanam](https://github.com/ShasonGurung/Jivanam) - Config files for my GitHub profile. (1 day ago)
+- [AI4Green/AI4Green4Students](https://github.com/AI4Green/AI4Green4Students) - AI4Green4Students is a pedagogical version of AI4Green, promoting sustainable chemistry practices and research data management. (1 month ago)
 - [AI4Green/forward-prediction-api](https://github.com/AI4Green/forward-prediction-api) - Forward Prediction API for the AI4Green4Students (4 months ago)
 
 #### ⭐ Repositories I starred
@@ -21,4 +21,4 @@ I am a Software Developer currently based in U.K.
 - [reisxd/TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. - 1312 stars
 - [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of - 10215 stars
 
-_Last Updated on 30 December 2025 23:05:42_
+_Last Updated on 31 December 2025 00:27:07_
