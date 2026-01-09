@@ -17,8 +17,8 @@ I am a Software Developer currently based in U.K.
 
 #### ⭐ Repositories I starred
 
-- [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript. - 7667 stars
+- [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript. - 7668 stars
 - [reisxd/TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. - 1339 stars
 - [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of - 10231 stars
 
-_Last Updated on 09 January 2026 18:09:10_
+_Last Updated on 09 January 2026 19:06:37_
