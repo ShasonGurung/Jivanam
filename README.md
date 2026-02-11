@@ -11,14 +11,14 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [ShasonGurung/Jivanam](https://github.com/ShasonGurung/Jivanam) - Config files for my GitHub profile. (today)
-- [uon-drs/bicep](https://github.com/uon-drs/bicep) - Reusable bicep files for DRS projects (today)
+- [ShasonGurung/Jivanam](https://github.com/ShasonGurung/Jivanam) - Config files for my GitHub profile. (1 day ago)
+- [uon-drs/bicep](https://github.com/uon-drs/bicep) - Reusable bicep files for DRS projects (1 day ago)
 - [AI4Green/AI4Green4Students](https://github.com/AI4Green/AI4Green4Students) - AI4Green4Students is a pedagogical version of AI4Green, promoting sustainable chemistry practices and research data management. (2 months ago)
 
 #### ⭐ Repositories I starred
 
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript. - 7739 stars
 - [reisxd/TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. - 1435 stars
-- [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of - 10265 stars
+- [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of - 10264 stars
 
-_Last Updated on 10 February 2026 23:16:29_
+_Last Updated on 11 February 2026 00:38:00_
