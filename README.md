@@ -11,8 +11,8 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
+- [ShasonGurung/Jivanam](https://github.com/ShasonGurung/Jivanam) - Config files for my GitHub profile. (today)
 - [ShasonGurung/portfolio](https://github.com/ShasonGurung/portfolio) -  (today)
-- [ShasonGurung/Jivanam](https://github.com/ShasonGurung/Jivanam) - Config files for my GitHub profile. (1 day ago)
 - [ShasonGurung/dotfiles](https://github.com/ShasonGurung/dotfiles) -  (1 month ago)
 
 #### ⭐ Repositories I starred
@@ -21,4 +21,4 @@ I am a Software Developer currently based in U.K.
 - [reisxd/TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. - 2232 stars
 - [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of - 10394 stars
 
-_Last Updated on 11 October 2026_
+_Last Updated on 11 October 2026 06:51:58_
