@@ -11,14 +11,14 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [ShasonGurung/Jivanam](https://github.com/ShasonGurung/Jivanam) - Config files for my GitHub profile. (today)
-- [ShasonGurung/dotfiles](https://github.com/ShasonGurung/dotfiles) -  (4 weeks ago)
+- [ShasonGurung/Jivanam](https://github.com/ShasonGurung/Jivanam) - Config files for my GitHub profile. (1 day ago)
+- [ShasonGurung/dotfiles](https://github.com/ShasonGurung/dotfiles) -  (1 month ago)
 - [ShasonGurung/portfolio](https://github.com/ShasonGurung/portfolio) -  (1 month ago)
 
 #### ⭐ Repositories I starred
 
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript. - 7865 stars
-- [reisxd/TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. - 2547 stars
+- [reisxd/TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. - 2550 stars
 - [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of - 10403 stars
 
-_Last Updated on 17 November 2026 17:26:01_
+_Last Updated on 18 November 2026 00:39:30_
